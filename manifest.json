@@ -1,0 +1,5 @@
+{
+    "name":"gesture-control-extension",
+    "version":"0.0.1",
+    "description":"A simple extension to control the mouse cursor with gestures"
+}
